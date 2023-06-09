@@ -1,0 +1,81 @@
+body{
+background-color: #ffff7f;
+}
+
+a{
+background-color: aqua;
+border: black solid 1px;
+position: relative;
+margin: 10px;
+}
+
+video{
+position: relative;
+right: -320px;
+margin: 40px;
+border: blue solid 3px;
+}
+
+.nome1{
+position: relative;
+right: -40px;
+}
+
+.nomedoshow{
+color: black;
+position: relative;
+right: -410px;
+font-size: 60px;
+font-family: minhafonte;
+}
+
+.text1{
+font-family: minhafonte;
+font-size: 35px;
+}
+
+.text2{
+position: relative;
+right: -200px;
+font-family: minhafonte;
+font-size: 29px;
+
+}
+
+.text3{
+position: relative;
+right: -320px;
+font-family: minhafonte;
+font-size: 35px;
+}
+
+.text4{
+position: relative;
+right: -400px;
+font-family: minhafonte;
+font-size: 30px;
+
+}
+.text5{
+position: relative;
+right: -550px;
+font-family: minhafonte;
+font-size: 27px;
+}
+
+.div1{
+background-color: bisque;
+border: blue solid 3px;
+width: 300px;
+position: relative;
+right: -1340px;
+margin: -1000px;
+
+}
+
+.p1{
+    position: relative;
+    margin: 20px;
+}
+
+
